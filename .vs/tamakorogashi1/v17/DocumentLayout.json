@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity_project_\\tamakorogashi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D47B9E-8C92-D134-83C5-7D362FC0063B}|Assembly-CSharp.csproj|c:\\unity_project_\\tamakorogashi1\\assets\\scripts\\gravity controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D47B9E-8C92-D134-83C5-7D362FC0063B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gravity controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gravity Controller.cs",
+              "DocumentMoniker": "C:\\Unity_project_\\tamakorogashi1\\Assets\\Scripts\\Gravity Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gravity Controller.cs",
+              "ToolTip": "C:\\Unity_project_\\tamakorogashi1\\Assets\\Scripts\\Gravity Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gravity Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:35:54.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
